@@ -1,2 +1,2 @@
 # hello-world2
-another repo
+ This is my first attempt in learning about VC!
